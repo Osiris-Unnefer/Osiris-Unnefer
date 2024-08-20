@@ -2,3 +2,4 @@
 - 👀 I'am interested in everything related to computer science, but mainly about cybersecurity, in cybersecurity I also like everything but my favorite areas are forensic and cryptanalysis
 - 🧠 I’m currently learning python, c, cryptanalysis, forensic, steganography and toher things
 - 🏆 I’m looking to collaborate on everything that can help me to be better
+- 🖥️ Links -> https://linktr.ee/cb8232aa14f06e
