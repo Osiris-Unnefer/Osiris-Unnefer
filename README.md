@@ -5,7 +5,7 @@
 - 🖥️ Links -> https://linktr.ee/cb8232aa14f06e
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Unnefer&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osiris-Unnefer&theme=shadow_red&show_icons=true)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
