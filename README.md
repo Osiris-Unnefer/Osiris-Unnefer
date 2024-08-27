@@ -3,7 +3,7 @@
 - 🏆 I’m looking to collaborate on everything that can help me to be better
 - 🤵 I worked as a network admin
 
-Big personal projects in progress / done :
+**Big personal projects in progress / done :**
 
 In progress :
   
