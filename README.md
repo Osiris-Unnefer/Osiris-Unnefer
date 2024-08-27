@@ -2,7 +2,7 @@
 - 👀 I'am interested in everything related to computer science, but mainly about cybersecurity, in cybersecurity I also like everything but my favorite areas are forensic and cryptanalysis
 - 🏆 I’m looking to collaborate on everything that can help me to be better
 - 🤵 I worked as a network admin
-
+##
 **Big personal projects in progress / done :**
 
 In progress :
