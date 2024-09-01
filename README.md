@@ -29,7 +29,7 @@
 
 <li>🔨 Cybersecurity Forensic & Crypto enjoyer</li>
 <li>🔧 Python, c (in learning)</li>
-<li>💻 Windows, Windows server, Debian </li>
+<li>💻 Windows, Windows server, Debian, Ubuntu </li>
 
 
 &nbsp;
