@@ -16,7 +16,7 @@
   
 ● Memory dump image extractor
 
-● Secure Data Eraser
+● Secure Data Eraser (overwrite, aes data encryption)
 
 &nbsp;
 ## Links
