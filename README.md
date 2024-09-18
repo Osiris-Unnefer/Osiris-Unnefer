@@ -8,20 +8,22 @@
 
 **In progress :**
   
-● Cryptographically safe number generator
-
 ● Most secure password generator i can do 
-  
+
+**Done but in upgrade :**
+
+● Cryptographically safe random number generator 
+
 **Done :**
   
-● Memory dump image extractor
+● Memory dump image extractor (signatures)
 
-● Secure Data Eraser (overwrite, aes data encryption)
+● Secure Data Eraser (overwrite in binary, aes data encryption)
 
 &nbsp;
 ## Links
 
-● 🖥️ Linktree -> https://linktr.ee/cb8232aa14f06e
+● 🖥️ Linktree -> https://linktr.ee/cb8232a14f06e
 
 ● 💀 Root Me -> https://www.root-me.org/3e36b108a5c6c20?lang=fr#d4c6970311104b1f8ce5e81cdb51a03e
 
